@@ -24,3 +24,20 @@ h1, h2, h3, h4, h5, h6
     font-family: UNCTitle;
     color: var(--UNC-Blue);
 }
+html, body {
+  background-color: #d3e2eb;
+}
+/* unvisited link */
+a:link {
+  color: #013c65;
+}
+
+/* visited link */
+a:visited {
+  color: #843553;
+}
+
+/* mouse over link */
+a:hover {
+  color: #5d99c4;
+}
