@@ -24,6 +24,7 @@ h1, h2, h3, h4, h5, h6
     font-family: UNCTitle;
     color: var(--UNC-Blue);
 }
+
 html, body {
   background-color: #d3e2eb;
 }
@@ -41,3 +42,29 @@ a:visited {
 a:hover {
   color: #5d99c4;
 }
+
+
+table 
+{
+border: ridge #013c65 3px;
+background-color: #60697a;
+padding: 3px;
+}
+th
+{
+  font-size: 24px;
+  font-family: Monospace;
+}
+a:hover
+{
+  background: #f6b000;
+}
+
+
+h1:hover, h2:hover, h3:hover
+{
+  color: blue;
+}
+
+
+
